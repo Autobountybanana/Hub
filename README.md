@@ -2,7 +2,7 @@ repeat wait()
 
 until game:IsLoaded()
 
-local TableChat = {"Banana On Top","Config By #Hkoaa"}
+local TableChat = {"FB Hoàng Việt","Config By HViet"}
 
 spawn(function()
 
